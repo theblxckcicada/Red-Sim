@@ -13,7 +13,7 @@ namespace api
 {
   public class GameFileApiTrigger
   {
-    private const string ContainerName = "red-sim-cache";
+    private const string ContainerName = "ovawatch";
     private const string BlobName = "red-sim-data.json";
 
     [Function("GameFileApiTrigger")]
